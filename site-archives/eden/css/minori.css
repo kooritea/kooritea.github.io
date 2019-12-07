@@ -1,0 +1,53 @@
+html {overflow-y:scroll;
+	scrollbar-3dlight-color: #E2D2C9;
+	scrollbar-arrow-color: #351C1C;
+	scrollbar-darkshadow-color: #E2D2C9;;
+	scrollbar-face-color: #E2D2C9;;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-track-color: #FFFFFF;
+	 }
+
+body{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	scrollbar-3dlight-color: #E2D2C9;
+	scrollbar-arrow-color: #351C1C;
+	scrollbar-darkshadow-color: #E2D2C9;;
+	scrollbar-face-color: #E2D2C9;;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-track-color: #FFFFFF;
+	}
+
+.cap1 {  font-size: 10px; line-height: 13px}
+a:link {  color: #512051; text-decoration: none}
+a:visited {  color: #512051; text-decoration: none}
+a:active {  color: #BF00BB; text-decoration: underline}
+a:hover {  color: #BF00BB; text-decoration: underline}
+.lead { font-size: 12px; line-height: 18px }
+.cont {  font-size: 12px; line-height: 20px}
+.title {  font-size: 18px; line-height: 18px}
+.cap1-E { font-size: 10px; line-height: 13px ; font-family: "Arial", "Helvetica", "sans-serif"}
+.cont02 {
+	font-size: 12px;
+	line-height: 16px;
+	color: #333333;
+	}
+.title02 {
+	font-size: 14px;
+	line-height: normal;
+	font-weight: normal;
+	color: #7A0B07;
+	}
+.title03 {
+	font-size: 14px;
+	line-height: normal;
+	font-weight: normal;
+		}
+.date {
+	font-size: 10px;
+	line-height: normal;
+	font-weight: bold;
+	color: #7A0B07
+	}
