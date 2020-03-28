@@ -1,0 +1,1 @@
+{"id":1811,"content":"本来以为有qnap自带的自动签发let's encrypt就不用再自己搞acme了\r\n\r\nqnap这个let's encrypt只能全球区域的能用，我还以为是账号和区域绑定的，又去注册了一个账号发现原来直接在控制→常规设置里面就能改区域了\r\n改成全球区域就可以获得com的ddns地址，就可以自动签let'sencrypt了\r\n\r\n然后新的问题是这不能像github page一样用cname签一个自己的地址，结果最后好像还是要自己acme\r\n\r\n\r\nqnap内置是apache，我还是比较喜欢nginx","hide":"","time":"2020-03-10T20:32:26.000Z"}
