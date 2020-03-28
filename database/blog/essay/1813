@@ -1,0 +1,1 @@
+{"id":1813,"content":"以前没怎么用过docker更加没写过compose\r\n整了一天就nginx和node两个服务，现在是姑且是能够公网https访问了\r\n\r\n不知道要怎么将两个network_mode:bridge的容器放进同一个网络\r\n最后用了「禁忌の技」links","hide":"","time":"2020-03-11T20:59:06.000Z"}
