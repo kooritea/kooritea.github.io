@@ -1,0 +1,1 @@
+{"id":1881,"content":"给mpush接了FCM\n明天写最麻烦的文档\n\n服务端通过FCM发送消息，可以拉起客户端的service worker，再通过notification发送通知\n在pc上是chrome内置的消息通道\n在安卓上是系统级的FCM，走FCM就不用像之前一样后台常驻一个websocket了，可以省不少电\n有了pwa的缓存机制基本上和app没什么区别了","hide":"","time":"2020-04-05T17:12:36.000Z"}
