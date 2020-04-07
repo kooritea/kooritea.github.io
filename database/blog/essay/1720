@@ -1,0 +1,1 @@
+{"id":1720,"content":"```nodejs\nrequire('global-agent').bootstrap();\n```\n\n```bash\nexport GLOBAL_AGENT_HTTP_PROXY=http://127.0.0.1:port/\n```\n\n用这个就可以单独给node代理了\n","hide":"","time":"2020-02-21T06:34:40.000Z"}
