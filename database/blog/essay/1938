@@ -1,1 +1,1 @@
-{"id":1938,"content":"openwrt的/etc/resolv.conf是/tmp/resolv.conf的软连接\n\n而/tmp/resolv.conf是由dnsmasp的service脚本生成的\n所以想要改openwrt的/etc/resolv.conf的话要删掉软连接手动新建文件，不然每次改动都会被dnsmasp启动复原了","hide":"","time":"2020-04-18T13:32:51.000Z"}
+{"id":1938,"content":"openwrt的/etc/resolv.conf是/tmp/resolv.conf的软连接\n\n而/tmp/resolv.conf是由dnsmasp的service脚本生成的\n所以想要改openwrt的/etc/resolv.conf的话要删掉软连接手动新建文件，不然每次改动都会被dnsmasp启动复原了\n\n刚想到旁路由已经不需要dhcp和dnsmasp的dns了，可以直接把dnsmasp停了，让clash直接监听53端口做抗污染dns","hide":"","time":"2020-04-18T13:32:51.000Z"}
