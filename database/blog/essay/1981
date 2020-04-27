@@ -1,0 +1,1 @@
+{"id":1981,"content":"angular cli自带了一套pwa组件，但是不知道为什么只能转发请求不能缓存，整了半天完全不能找到问题。\n换成了vue cli那一套，那一套比较简单一点，没有angular那样集成度那么高，只要程序入口引入register-service-worker注册service-worker脚本就行了，里面用workbox控制缓存。\n这一套虽然可以顺利缓存静态资源，但有个问题是在angular cli里面用没办法生成静态资源的hashversion，导致workbox不能抛出更新事件，不过总比原来那一套在非根目录就有问题要好得多。","hide":"","time":"2020-04-27T17:04:15.000Z"}
