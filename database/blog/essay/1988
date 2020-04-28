@@ -1,0 +1,1 @@
+{"id":1988,"content":"ss-server和openvpn server的代理机制不一样\nss-server不是建立虚拟局域网而是代替客户端在宿主机上发出请求的,所以不能像openvpn那样使用iptables匹配网络接口转发到clash的透明代理,现在不知道要怎么把ss-server的流量转到clash...\n\nkcp-server和ss-server是两个独立的系统\n两个搭配起来大概就是  普通流量-> ss-client -> kcp-client -> 恶劣环境 -> kcp-server -> ss-server -> 正常代理","hide":"","time":"2020-04-28T15:59:27.000Z"}
