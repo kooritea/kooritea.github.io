@@ -1,1 +1,1 @@
-{"id":2004,"content":"像ssh、sftp这种交互式命令可以用 << EOF把交互命令写在shell脚本里面\n\n```bash\nssh admin@192.168.1.103 << EOF\ndocker restart nest-server\nexit\nEOF\n```\n","hide":"","time":"2020-05-01T08:07:32.000Z"}
+{"id":2004,"content":"像ssh、sftp这种交互式命令可以用 << EOF把交互命令写在shell脚本里面\n\n```bash\nssh -tt admin@192.168.1.103 << EOF\ndocker restart nest-server\nexit\nEOF\n```\n\n使用ssh时要用-tt参数，否则会\n> Pseudo-terminal will not be allocated because stdin is not a terminal.","hide":"","time":"2020-05-01T08:07:32.000Z"}
