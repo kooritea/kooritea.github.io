@@ -1,0 +1,1 @@
+{"id":2014,"content":"不知道为什么angular操作消息数组后视图没有及时更新\n引入ngZone手动刷新视图\n\n```typescript\nclass MessageComponent implements OnInit {\n  messages: Message[] = []\n  constructor(\n    private ngZone: NgZone\n  ) { }\n  handle(message: Message) {\n    this.messages.push(message)\n    this.ngZone.run(() => { })\n  }\n}\n```","hide":"","time":"2020-05-03T15:58:14.000Z"}
