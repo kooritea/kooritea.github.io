@@ -1,0 +1,1 @@
+{"id":2013,"content":"marked 的 自定义renderer 只能返回html文本不能返回html对象，所以要给内容绑定事件的话只能把事件注册到全局用onevent调用，好捞啊。","hide":"","time":"2020-05-03T14:53:35.000Z"}
