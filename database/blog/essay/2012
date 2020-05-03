@@ -1,0 +1,1 @@
+{"id":2012,"content":"一句话给termux添加更多快捷键\n```bash\nmkdir ~/.termux && echo \"extra-keys = [['[',']','{','}','&','<','>'],['ESC','/','-','HOME','UP','END',';'],['TAB','CTRL','~','LEFT','DOWN','RIGHT','\\\"\\\"']]\" > ~/.termux/termux.properties\n```","hide":"","time":"2020-05-03T12:32:30.000Z"}
