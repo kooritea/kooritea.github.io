@@ -1,0 +1,1 @@
+{"id":2022,"content":"github 的oauth果然有跨域限制\n这个限制造成的麻烦就是纯前端没办法完成oauth流程，就算不自己搭后端也要借助代理。\n看了一下gitalk的代码，gitalk用的是https://cors-anywhere.herokuapp.com","hide":"","time":"2020-05-05T16:56:13.000Z"}
