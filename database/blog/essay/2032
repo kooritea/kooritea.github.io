@@ -1,1 +1,1 @@
-{"id":2032,"content":"最近magisk不能检测更新和访问在线仓库了\n\n其实是因为raw.githubusercontent.com被污染了\n加host就行","hide":"","time":"2020-05-07T04:56:34.000Z"}
+{"id":2032,"content":"最近magisk不能检测更新和访问在线仓库了\n\n其实是因为raw.githubusercontent.com被污染了\n加host就行\n\n会出现这个问题是因为我使用透明代理，dns的解析有一个单独的规则，所以即使是代理全局了该污染还是污染。\n一般用ss的话直接全局就没这么多幺蛾子了","hide":"","time":"2020-05-07T04:56:34.000Z"}
