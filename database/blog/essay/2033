@@ -1,0 +1,1 @@
+{"id":2033,"content":"顺带一提edxposed卸载一定要用edx提供的uninstaller来卸载，直接在/data/adb/modules删除是临时开机的紧急措施，不然再安装edx会出现奇怪的问题，我已经中招了。","hide":"","time":"2020-05-07T05:08:16.000Z"}
