@@ -1,0 +1,1 @@
+{"id":2043,"content":"更新了miui12第一周更新\nmipay果然没了，这个要重新刷mipay包\n时钟日历的本地化也没了，这个要重新刷eufix包\nmipush是修改的/data分区，理论上不需要重新刷，用root去看需要修复的/data/data/com.xiaomi.xmsf/files/mipush_country_code是正确的。不过在收到第一条mipush推送之前还不能下定论。","hide":"","time":"2020-05-08T17:01:35.000Z"}
