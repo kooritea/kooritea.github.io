@@ -1,1 +1,1 @@
-{"id":2084,"content":"通过替换/system/media/theme/default/com.miui.home/res/drawable-xxhdpi/的gesture_back_arrow.png和gesture_back_background.png可以替换侧滑的图案，但是效果不是很好，因为图案不会镜像，除非替换一个对称的图案。","hide":"","time":"2020-05-17T01:35:51.000Z"}
+{"id":2084,"content":"通过替换/system/media/theme/default/com.miui.home/res/drawable-xxhdpi/的gesture_back_arrow.png和gesture_back_background.png可以替换侧滑的图案，但是效果不是很好，因为图案不会镜像，除非替换一个对称的图案。\n\n默认的箭头可能不是通过水平翻转而是使用两张图片来实现的，可是找不到翻转的图片的名称","hide":"","time":"2020-05-17T01:35:51.000Z"}
