@@ -1,0 +1,1 @@
+{"id":2083,"content":"添加了两条system.prop成功让日历本地化了\n```bash\nro.vendor.miui.region=CN\nro.miui.mcc=9454\n```","hide":"","time":"2020-05-17T01:29:53.000Z"}
