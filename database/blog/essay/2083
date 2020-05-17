@@ -1,1 +1,1 @@
-{"id":2083,"content":"添加了两条system.prop成功让日历本地化了\n```bash\nro.vendor.miui.region=CN\nro.miui.mcc=9454\n```","hide":"","time":"2020-05-17T01:29:53.000Z"}
+{"id":2083,"content":"添加了两条system.prop成功让日历本地化了\n```bash\nro.vendor.miui.region=CN\nro.miui.mcc=9454\n#其他本地化\nro.miui.cust_variant=cn\nro.miui.region=CN\nro.miui.build.region=cn\nro.product.locale=zh-CN\nro.product.locale.language=zh\nro.product.locale.region=CN\nro.product.mod_device=\n```","hide":"","time":"2020-05-17T01:29:53.000Z"}
