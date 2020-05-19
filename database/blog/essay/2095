@@ -1,1 +1,1 @@
-{"id":2095,"content":"现在的rcm reconnectmanager有问题\n一旦连不上就显示下次重连时间00:~xxs\n只能切换网络状态手动重连","hide":"","time":"2020-05-19T12:06:17.000Z"}
+{"id":2095,"content":"现在的fcm reconnectmanager有问题\n一旦连不上就显示下次重连时间00:~xxs\n只能切换网络状态手动重连","hide":"","time":"2020-05-19T12:06:17.000Z"}
