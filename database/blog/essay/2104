@@ -1,0 +1,1 @@
+{"id":2104,"content":"改`/data/data/com.miui.securitycenter/files/gamebooster/freeformlist`可以自定义视频工具箱和游戏助手的快捷小窗应用\n\n这个文件里面有上下两个列表，应该一个是视频工具箱一个游戏助手的，都改就行。\n这个要是格式没改好重启会卡米是我没想到，不过这种程度的卡米进twrp把这个文件删了或者恢复备份就行了。","hide":"","time":"2020-05-21T01:21:40.000Z"}
