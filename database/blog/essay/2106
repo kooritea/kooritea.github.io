@@ -1,0 +1,1 @@
+{"id":2106,"content":"原来eu20.5.14版本开始就弃用原生的权限管理器改用miui的权限管理器的，很不巧的是我在20.5.7的时候通过替换AuthManager改用miui的权限管理器没发现这个改动。\n\n现在可以不需要提取AuthManager和不需要改ro.product.mod_device了","hide":"","time":"2020-05-21T03:10:22.000Z"}
