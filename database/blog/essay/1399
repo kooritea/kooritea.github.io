@@ -1,0 +1,1 @@
+{"id":1399,"content":"不带任何自定义http头的跨域post FromData的简单请求不需要OPTIONS请求\n但是这个「不带任何自定义http头的跨域post FromData的简单请求」一旦onprogress之后就需要OPTIONS了?!?!?!?!?!\n\n去年的时候就遇到过这个问题\n神奇的是搜索引擎都没有找到有人说过这个事,都一年了总不会是我的chrome78.0.3904.108有bug吧\n难道是我不会搜索?\n\n我不就看一下上传的进度嘛,和请求体有啥关系\n\n恰恰smms又不支持options请求","hide":"","time":"2019-12-07T14:08:02.000Z"}
