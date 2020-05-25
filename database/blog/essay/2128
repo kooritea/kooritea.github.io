@@ -1,0 +1,1 @@
+{"id":2128,"content":"之前想用gitalk做留言板，但是因为纯前端的gitalk会泄漏clientSecret和申请权限过高会有安全问题。\n\n现在用utterances已经没问题了。","hide":"","time":"2020-05-25T13:36:21.000Z"}
