@@ -1,0 +1,1 @@
+{"id":1314,"content":"angular的[innerHTML]竟然还有标签白名单过滤\n既然我都用[innerHTML]不用{{}}就表示我已经知道xss才对啊\n\n如果要在[innerHTML]插入白名单以外的标签需要套一层\n```javascript\n// pipe or component\nconst safeHTML =  domSanitizer.bypassSecurityTrustHtml(unsafeHTML)\n\n// template\n[innerHTML]=\"safeHTML\"\n```\n\n[music 827554]","hide":"","time":"2019-11-16T07:19:16.000Z"}
