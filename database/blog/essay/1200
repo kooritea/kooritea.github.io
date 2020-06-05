@@ -1,0 +1,1 @@
+{"id":1200,"content":"angular的路由缓存不像vue一样加个keep-alive就行\n需要自己实现RouteReuseStrategylink接口\n现在姑且是做好了keepalive\n\n现在还有一个问题是滚动条的位置\n要保存和复现滚动条的位置很简单，但是不知道angular要在什么层面做\n在路由守卫做好像守卫也不是这样用\n在组件的生命周期做好像要每个页面组件都写重复代码\n","hide":"","time":"2019-10-21T11:57:13.000Z"}
