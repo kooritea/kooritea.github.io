@@ -1,0 +1,1 @@
+{"id":1186,"content":"angular自带的httpclient默认返回observable\n但是大部分只有一次next就complete的请求方法完全没有必要搞个observable，还不直观\n\n好在提供了toPromise方法","hide":"","time":"2019-10-16T11:51:39.000Z"}
