@@ -1,1 +1,1 @@
-{"id":2207,"content":"在电脑上使用同样的wifi测试\nsmb(25MB/S)≈http单线(25MB/S)>SFTP(21MB/S)","hide":"","time":"2020-06-06T12:34:03.000Z"}
+{"id":2207,"content":"在电脑上使用同样的wifi测试\nsmb(25MB/S)≈http单线(25MB/S)>SFTP(21MB/S)\n这个比较符合预期，但是不知道为什么电脑上用SFTP会比在手机上用SFTP慢这么多","hide":"","time":"2020-06-06T12:34:03.000Z"}
