@@ -1,0 +1,1 @@
+{"id":2223,"content":"在shell里面如果不用`\"\"`包裹变量会丢失换行\n丢失换行之后用sed删除匹配行的话就会全删了\n\n```bash\n#错误操作\necho $content | sed /rubbish/d\n#正确操作\necho \"$content\" | sed /rubbish/d\n```","hide":"","time":"2020-06-10T02:12:08.000Z"}
