@@ -1,0 +1,1 @@
+{"id":1117,"content":"因为嵌入式瑞士军刀busybox的wget不支持https\n之前一直都是再额外下载原版wget处理https\n\n今天一看发现一个软连接到uclient-fetch的wget\n而且这个用法和wget完全一样，并且支持https，但是之前一直被busybox的wget软连接覆盖了所以不知道这个东西的存在","hide":"","time":"2019-09-26T18:05:47.000Z"}
