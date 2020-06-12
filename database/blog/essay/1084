@@ -1,0 +1,1 @@
+{"id":1084,"content":"正则替换老是忘记加g\n```javascript\nstring.replace(/reg/g,string)\n```","hide":"","time":"2019-09-17T16:58:36.000Z"}
