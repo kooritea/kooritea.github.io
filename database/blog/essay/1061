@@ -1,0 +1,1 @@
+{"id":1061,"content":"把家里一级路由上的pptp server换成了openvpn server\npptpserver不知道为什么有时候一直连接失败，在路由器netstat已经能看到tcp连接已经连起来了，但是pptp日志显示发送配置文件失败\n\n现在换成openvpn看看情况如何\n实际上openvpn也更好用，可以自定义端口，还能自动重连\n\n家里的路由器开了一大堆外网服务…\nss-server openvpn-server pptp-server 外网ssh","hide":"","time":"2019-09-08T10:54:49.000Z"}
