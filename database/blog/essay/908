@@ -1,0 +1,1 @@
+{"id":908,"content":"```shell\nxinput list\nxinput set-prop ${id} \"Device Enabled\" 0\n```\nx桌面禁用输入设备","hide":"","time":"2019-07-07T05:21:44.000Z"}
