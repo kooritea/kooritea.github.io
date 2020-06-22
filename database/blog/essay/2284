@@ -1,0 +1,1 @@
+{"id":2284,"content":"github api v3的搜索是get  /search/code\n但是这个api不认encodeURI的关键词，没法搜索中文。。。\n\n用v4用post可以中文但是貌似不支持搜索code","hide":"","time":"2020-06-22T15:37:11.000Z"}
