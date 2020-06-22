@@ -1,0 +1,1 @@
+{"id":897,"content":"一看磁盘竟然只剩下5gb了，差点出事\n\n用baobab看了下postman占了15gb…\n\n顺便把以前玩的docker全部关闭容器、卷、镜像通通删掉\n\n```bash\ndocker system prune\n\n```\n一来一回腾出了30gb的空间，舒服了","hide":"","time":"2019-07-02T00:05:21.000Z"}
