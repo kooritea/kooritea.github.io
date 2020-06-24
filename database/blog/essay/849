@@ -1,0 +1,1 @@
+{"id":849,"content":"使用ping实现digshort\n```shell\ndigshort() {\n  echo `ping ${1} -c 1 | head -n 1 | cut -d \"(\" -f 2 | cut -d \")\" -f 1`\n}\n\nip=`digshort \"kooritea.cc\"`\necho ip\n\n```\n为什么不用dig +short?\n- dig +short 会返回CNAME记录 (用-t A也会有CNAME)\n- 路由器没必要装dig\n","hide":"","time":"2019-06-07T09:55:24.000Z"}
