@@ -1,0 +1,1 @@
+{"id":769,"content":"沙雕了\n一直在\n```bash\ndig twitter.com 127.0.0.1 -p 53\n```\n还以为dnsmasq没配对\n正确的写法\n```bash\ndig @127.0.0.1 twitter.con -p 53\n```","hide":"","time":"2019-05-14T19:18:40.000Z"}
