@@ -1,0 +1,1 @@
+{"id":680,"content":"在64位系统上一个buffer最大长度是2gb\n换句话说fs.readFile一个2gb以上的文件就会报错\n\n解决方法是用readFileStream，一点一点的读取，当然highWaterMark要调大一点，不然太慢了\n把超过buffer.contents.MAX_LENGTH部分放在一个新的buffer里面","hide":"","time":"2019-04-02T12:52:15.000Z"}
