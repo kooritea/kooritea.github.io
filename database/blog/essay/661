@@ -1,0 +1,1 @@
+{"id":661,"content":"初步看flv结构\n貌似是保存下来的flv缺少了header后面的第一个tag \"script tag\"所以播放器无法知道flv的长度而不是缺少了flv header，因为flv header的内容基本上是固定的\n\n好像看到方向了\n\nnpm上貌似没有flv stream to file的模块\n现在计划是先搞定这个模块，然后是命令行版录播姬，最后用electron套个ui\n\nやりますねー","hide":"","time":"2019-03-27T09:11:20.000Z"}
