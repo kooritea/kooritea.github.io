@@ -1,0 +1,1 @@
+{"id":628,"content":"防dns污染再换方案\n\nchinadns感觉问题很大错误率超高\n如果直接让dnsmasq转发到抗污染dns，那在解析国内域名也分分钟250+ms\n\n```bash\nhttps://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf\n```\n\n现在的方案是直接用写好的dnsmasq配置文件让国内域名走114，剩下的走转发，虽然查表会让解析时间从30+变成60+左右，不过总比250+要好多了","hide":"","time":"2019-03-01T18:51:18.000Z"}
