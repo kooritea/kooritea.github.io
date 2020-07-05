@@ -1,0 +1,1 @@
+{"id":626,"content":"关于openwrt手动搭pptpd的问题\n除了正常安装pptpd配置运行之外\n还要打开防火墙的tcp1723,udp500,IPSec-ESP\n使用iptable设置转发\n```bash\niptables -t nat -A POSTROUTING -s 192.168.31.0/24 -j MASQUERADE\niptables -A forwarding_rule -s 192.168.31.0/24 -j ACCEPT\n```\n\niptable不设置第一条连入的客户端会无法使用dns\n不设置第二条会直接不通","hide":"","time":"2019-02-28T00:26:12.000Z"}
