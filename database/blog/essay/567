@@ -1,0 +1,1 @@
+{"id":567,"content":"将mysql可能存到emoji的字段改为`utf8mb4_general_ci`\n再修改egg-mysql的配置\n```javascript\n// config/config.default.js\nmysql: {\n  clients: {\n     database: {\n         charset : 'utf8mb4'\n     }\n  }\n}\n```\n🤘","hide":"","time":"2019-01-14T02:05:36.000Z"}
