@@ -1,0 +1,1 @@
+{"id":2342,"content":"typescript的for...in的类型签名不够准确\n\n```typescript\nupdate(data: Partial<Entity>){\n  for(let key in data){ // 这个地方key的类型签名是string,也就是Object.keys(data)的类型签名是string[]\n    \n  }\n  // 实际上data的类型是已知的那key的类型也是可以确定为keyof Entity\n\n}\n\n```","hide":"","time":"2020-07-09T08:15:14.000Z"}
