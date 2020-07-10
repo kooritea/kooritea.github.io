@@ -1,0 +1,1 @@
+{"id":535,"content":"哎呀 之前忘记把后台页做成懒加载了\n```javascript\nconst Component = resolve => {\n  import(path).then(module => {\n    resolve(module)\n  })\n}\n```","hide":"","time":"2018-12-25T17:17:12.000Z"}
