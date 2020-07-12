@@ -1,0 +1,1 @@
+{"id":2349,"content":"miui的负一屏可以快速打开公交卡，但是要先打开nfc开关\n这个不够方便，最好就是打开公交卡的时候自动打开nfc，关闭的时候关闭nfc\n\n这里可以用xposed edge在应用状态触发器里面将小米智能卡开启时用root执行`svc nfc enable`，关闭时disable就好了","hide":"","time":"2020-07-12T13:02:58.000Z"}
