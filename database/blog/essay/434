@@ -1,0 +1,1 @@
+{"id":434,"content":"在想着用electron做一个视频播放器\n主要是因为在win下面没有找到满意的播放器\n关键的问题都已经有了基本的解决方法\nass字幕虽然没有现成的解析库，但是稍微看了一下用js解析貌似也不是不可能\n\n\n这是第一个从头开始做的electron应用\n顺便用electron-wechat没用到的electron-builder，以及在win下用扫地僧的miniblink\n\n\n不知道能不能在大三结束前做出来","hide":"","time":"2018-10-21T19:18:28.000Z"}
