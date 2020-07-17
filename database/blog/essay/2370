@@ -1,0 +1,1 @@
+{"id":2370,"content":"xhr.setRequestHeader不会替换请求头而是合并请求头，一旦set进去就不能更改了\n\n所以如果要hack xhr的请求头的话要拦截setRequestHeader方法不要让他把请求头加上去","hide":"","time":"2020-07-17T17:38:00.000Z"}
