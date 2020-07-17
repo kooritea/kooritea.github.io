@@ -1,0 +1,1 @@
+{"id":2371,"content":"油猴脚本里面这个window对象怪怪的\n\n```javascript\nunsafeWindow.XMLHttpRequest === window.XMLHttpRequest \n//false\n\nunsafeWindow.document === window.document\n//true\n```","hide":"","time":"2020-07-17T17:54:13.000Z"}
