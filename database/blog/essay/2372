@@ -1,0 +1,1 @@
+{"id":2372,"content":"![image.png](https://cdn.jsdelivr.net/gh/kooritea/kooritea.github.io/img/2020/07/18/4c0d3a7c5894bd778dfa5f63b721ec60.png)\n前端调试神器。。。\n可以拦截请求修改再放行\n明天把拦截响应也写了\n\n有一个叫Ajax Interceptor的chrome也是类似功能，不过这个插件只能拦截响应\n不过只是拦截请求的话实际上不用写插件这种高级货，油猴脚本就够了\n\n\n266行代码，写了近4个小时一分钟写一行草","hide":"","time":"2020-07-17T19:16:30.000Z"}
