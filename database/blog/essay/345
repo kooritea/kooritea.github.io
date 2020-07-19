@@ -1,0 +1,1 @@
+{"id":345,"content":"发现vivaldi不能用h5播放器，chrome却又可以。。\n安装ffmpeg也不行\n在v2找到解决方法\n\n```\n\nsudo apt install chromium-codecs-ffmpeg-extra -y\n\n```\n\n完美\n\n\n辣鸡flash","hide":"","time":"2018-08-21T11:00:35.000Z"}
