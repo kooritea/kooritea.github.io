@@ -1,1 +1,1 @@
-{"id":2389,"content":"js的Date.getDay()是0～1,0是周日\ngetMonth是0～11，0是一月","hide":"","time":"2020-07-23T15:10:33.000Z"}
+{"id":2389,"content":"js的Date.getDay()是0～6,0是周日\ngetMonth是0～11，0是一月","hide":"","time":"2020-07-23T15:10:33.000Z"}
