@@ -1,0 +1,1 @@
+{"id":208,"content":"cmd和ps变量的取值不一样的[emoji pen]\ncmd这样写\n\n```\n\nfor /r %%i in (*.tlg) do tlg2png.exe %%i %%ig\n\n```\n\nps这样写\n\n```\n\nfor /r %%i in (*.tlg) do tlg2png.exe \"%%i\" \"%%ig\"\n```","hide":"","time":"2018-03-31T14:47:11.000Z"}
