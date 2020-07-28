@@ -1,0 +1,1 @@
+{"id":164,"content":"router将请求分配给controller\ncontroller再将工作细分给service\negg.js大概就是这样工作了","hide":"","time":"2018-02-20T03:22:15.000Z"}
