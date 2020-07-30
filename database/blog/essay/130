@@ -1,0 +1,1 @@
+{"id":130,"content":"刚才在编辑到一半又不小心退出去了，论临时保存的重要性。\n之前的想法是一段时间就提交到服务器保存，现在发现直接用indexedDB就好了嘛。\n前几天在做todolist的离线版，才知道这东西。\n![b6d90cdc9a9c53e29cfa0c447487fa6c.jpeg](https://cdn.jsdelivr.net/gh/kooritea/kooritea.github.io/img/2018/02/08/b6d90cdc9a9c53e29cfa0c447487fa6c.jpeg)","hide":"","time":"2018-02-07T20:00:40.000Z"}
