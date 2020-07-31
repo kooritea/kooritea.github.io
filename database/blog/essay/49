@@ -1,0 +1,1 @@
+{"id":49,"content":"chorme出bug还是更新了？？\ndocument.body.scrollTop一直等于0\n\n换成$(document).scrollTop()倒是可以了[emoji yi]","hide":"","time":"2017-12-05T03:08:28.000Z"}
