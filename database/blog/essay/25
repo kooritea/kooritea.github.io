@@ -1,1 +1,1 @@
-{"id":25,"content":"async function test()\n{\n       await   ........\n}\n真是个超棒的函数，再也不用因为回调函数头疼了[emoji pen]\n谁用谁知道","hide":"","time":"2017-10-04T11:22:45.000Z"}
+{"id":25,"content":"```javascript\nasync function test()\n{\n       await   ........\n}\n```\n真是个超棒的函数，再也不用因为回调函数头疼了[emoji pen]\n谁用谁知道","hide":"","time":"2017-10-04T11:22:45.000Z"}
