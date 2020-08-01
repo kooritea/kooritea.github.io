@@ -1,0 +1,1 @@
+{"id":87,"content":"交叉编译aria2的时候\n\n```bash\n/usr/include/zlib.h:34:19: fatal error: zconf.h: No such file or directory\n```\n\n原来zconf.h搬家到了/usr/include/x86_64-linux-gnu里面[emoji pen]\n复制出来即可","hide":"","time":"2018-01-15T06:51:24.000Z"}
