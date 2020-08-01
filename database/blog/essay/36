@@ -1,0 +1,1 @@
+{"id":36,"content":"利用frp内网穿透+nginx反向代理让外网设备访问内网站点[emoji nu]\nfrp内网穿透已经在tcp协议22端口实现了\nnginx反向代理也已经实现了\n但是外网设备用frp连接nginx的端口却被告知NOTFOUND（frp）[emoji yinxian]","hide":"","time":"2017-10-23T13:09:43.000Z"}
