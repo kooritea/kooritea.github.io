@@ -1,0 +1,1 @@
+{"id":32,"content":"不知道是我不会用还是本身的问题[emoji pen]\nnode-imap问题超级多！\nimap.fetch()的makeseen也不能生效（网上不少人有这个问题，下面全是复制粘贴，服了）\n\n这个可以用imap.setFlags();解决\n时间久了就注册一大堆监听器然后服务器就挂了，\nimap.search()回调的err也没办法抛出，data也是经常undefined\n","hide":"","time":"2017-10-07T17:38:59.000Z"}
