@@ -1,0 +1,1 @@
+{"id":2431,"content":"重写了鉴权部分\n之前是在守卫(只有访问有声明权限的路由才会活动)上尝试获取token再生成User对象挂到request上面，如果没有则挂null\n现在改为在中间件尝试获取token或cookie，生成User实例，如果没有则生成匿名(id为-1)User实例\n并且在这个中间件中判断lan等不是用户表定义的权限，然后整合全部权限挂在user上，最后user挂在request上\n\n之后如果访问的路由需要鉴权的话守卫只需要专注于判断request.user上的权限对象\n生成匿名user实例的好处在于稳定request.user的类型","hide":"","time":"2020-08-02T03:11:48.000Z"}
