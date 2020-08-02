@@ -1,0 +1,1 @@
+{"id":2434,"content":"`Select Name FROM SysObjects Where XType='U' order by Name` 获取当前数据库所有表名\n\n`select  NAME  from  SysColumns  Where  id=Object_Id('table name')` 获取某个表的所有列名\n\n`for  xml  path('')` 写在子查询末尾可以让查询结果转化为字符串","hide":"","time":"2020-08-02T14:00:14.000Z"}
