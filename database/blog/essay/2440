@@ -1,0 +1,1 @@
+{"id":2440,"content":"openwrt的dropbear的绑定到某个接口上并不是真的绑定到某个接口上，只是获取某个接口的ip再绑定\n\n这样的问题是绑定wan接口时，wan接口的pppoe拨号重拨后ip变了这个dropbear实例就废了\n只能不指定接口让他监听0.0.0.0，又或者在重拨wan时的钩子里面重启dropbear","hide":"","time":"2020-08-03T21:28:47.000Z"}
