@@ -1,0 +1,1 @@
+{"id":2437,"content":"github 的 `PUT content` API\n如果不带上sha的话，不管文件有没有修改都会生成一个commit，没有修改会生成一个空的commit\n\n但是这个sha好像是不能自己计算的，只能从`GET content`接口获取，所以如果不想生成一堆空commit，就只能先用`GET content`检查是否有同名文件拿到sha，再用put 推上去，这样当文件没有修改时就不会有空commit了","hide":"","time":"2020-08-03T05:19:09.000Z"}
