@@ -1,0 +1,1 @@
+{"id":2441,"content":"原生安卓接入fcm比想象中要简单一点\n用idea的一键导入依赖，然后写一个继承FirebaseMessagingService的服务重写onMessageReceived方法就好了\n然后在主线程用三个项目参数生成Firebase实例拿到客户端token，就可以通过api推送消息了\n\nfcm分为 数据消息和通知消息\n数据消息是不管应用在前台还是后台，都会调用onMessageReceived交给应用处理\n通知消息是只有应用在前台时才交给onMessageReceived处理，在后台时直接由gms发送通知不调用onMessageReceived","hide":"","time":"2020-08-04T03:54:45.000Z"}
