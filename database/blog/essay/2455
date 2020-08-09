@@ -1,1 +1,1 @@
-{"id":2455,"content":"想看看绿色守护的xposed 让force stop 的 APP响应FCM是怎么做到的\n但是这并不是开源的","hide":"","time":"2020-08-09T11:58:59.000Z"}
+{"id":2455,"content":"想看看绿色守护的xposed 让force stop 的 APP响应FCM是怎么做到的\n但是这并不是开源的\n\n猜测可能是hook gsm的方法\n但是gsm这个东西太复杂了","hide":"","time":"2020-08-09T11:58:59.000Z"}
