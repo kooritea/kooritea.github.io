@@ -1,0 +1,1 @@
+{"id":2466,"content":"原来一直都不能用js关闭非js打开标签\n之前能关闭是因为油猴脚本的`// @grant window.close`\n\n只是现在油猴脚本多了个不能关闭最后一个标签， 不是chrome的锅\n\n```javascript\nwindow.close()\nwarning: refused to close last tab!\n```","hide":"","time":"2020-08-11T07:49:19.000Z"}
