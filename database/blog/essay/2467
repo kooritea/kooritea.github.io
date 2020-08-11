@@ -1,0 +1,1 @@
+{"id":2467,"content":"曲线救国\n\n用window.open打开新标签\n然后用window.close()关闭当前标签 // 突破chrome的不允许用js关闭非js打开的标签\n再在刚才打开的新标签用unsafeWindow.close() // 突破油猴脚本不允许关闭最后一个标签的限制","hide":"","time":"2020-08-11T08:34:30.000Z"}
