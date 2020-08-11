@@ -1,0 +1,1 @@
+{"id":2465,"content":"不知从什么时候开始chrome不能用window.close关闭不是用js打开窗口\n\n```javascript\nwindow.close()\nScripts may close only the windows that were opened by them.\n```\n","hide":"","time":"2020-08-11T07:37:41.000Z"}
