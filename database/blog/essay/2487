@@ -1,0 +1,1 @@
+{"id":2487,"content":"在js里面将非ascii规定的字符编码也不会报错\n而是用utf16le编码再每个字符偷掉一个字节\n```javascript\nconsole.log(Buffer.from(\"夏色\",'ascii'))\n// <Buffer 0f 72>\nconsole.log(Buffer.from(\"夏色\",'utf16le'))\n// <Buffer 0f 59 72 82>\n```","hide":"","time":"2020-08-18T14:24:12.000Z"}
