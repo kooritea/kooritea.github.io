@@ -1,1 +1,1 @@
-{"id":2501,"content":"安卓列表的​ notifyDataSetChanged 调用频率过会崩溃，估计是和ui线程的代码不同不了，还要做节流真麻烦。\n\n还是js的同步省心","hide":"","time":"2020-08-21T14:56:57.000Z"}
+{"id":2501,"content":"安卓列表的​ notifyDataSetChanged 调用频率过会崩溃，估计是和ui线程的状态不同步了，还要做节流真麻烦。\n\n还是js的同步省心","hide":"","time":"2020-08-21T14:56:57.000Z"}
