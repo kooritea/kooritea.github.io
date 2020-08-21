@@ -1,0 +1,1 @@
+{"id":2498,"content":"Promise可以在resolve之后再then也能拿到值\n那和Observer就真的只是立即执行和延迟执行的区别了","hide":"","time":"2020-08-21T11:57:33.000Z"}
