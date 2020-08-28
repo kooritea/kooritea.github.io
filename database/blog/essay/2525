@@ -1,0 +1,1 @@
+{"id":2525,"content":"在桌面ubuntu使用vino共享桌面\n\n```bash\nsudo apt install vino\n```\n在设置->共享中将屏幕共享打开\n\n使用dconf-editor将/org/gnome/desktop/remote-access/require-encryption关闭\n重启\n就可以使用5900端口连接了","hide":"","time":"2020-08-28T16:32:33.000Z"}
