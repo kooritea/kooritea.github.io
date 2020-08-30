@@ -1,0 +1,1 @@
+{"id":2533,"content":"约战的live2d资源原来挪到/data/data里面了，没有root就拿不了了\n\n不过我的备机虽然没有root，但是有twrp\n进twrp adb一样可以拉出来\n\n```bash\nadb pull /data/data/com.heitao.yhdzz.bilibili/\n```\n\n不过还是老样子，文件都是被加密过的","hide":"","time":"2020-08-30T09:43:40.000Z"}
