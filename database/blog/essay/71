@@ -1,0 +1,1 @@
+{"id":71,"content":"新版页面已经是完全前后端分离了，其实不是很喜欢这种做法\n页面打开那一下还要继续发请求获取数据，虽然用上了HTTP2，但是一点点的数据也要发送一个请求还是感觉很浪费性能。\n下个目标是vue-server-renderer\n\n\n\n\n\n\n![3775f81f712f9cef0b5c3908d2adf7cf.png]([IMG_HOSTING]/resource/image/3775f81f712f9cef0b5c3908d2adf7cf)\n\n用上图床之后真的是可以肆无忌惮地放图","hide":"","time":"2017-12-29T12:39:50.000Z"}
