@@ -1,1 +1,1 @@
-{"id":151,"content":"![74f1db7092b4aca026b8a31433426bac.jpeg](https://cdn.jsdelivr.net/gh/kooritea/kooritea.github.io/img/2018/02/16/74f1db7092b4aca026b8a31433426bac.jpeg)\nvuex的store其实就是数据公交车？\nlocalStorage和全局变量虽然也可以做各个组件之间的公交车，不过对于vue来说不是响应式的\n","hide":"","time":"2018-02-16T13:36:58.000Z"}
+{"id":151,"content":"![74f1db7092b4aca026b8a31433426bac.jpeg]([IMG_HOSTING]/resource/image/74f1db7092b4aca026b8a31433426bac)\nvuex的store其实就是数据公交车？\nlocalStorage和全局变量虽然也可以做各个组件之间的公交车，不过对于vue来说不是响应式的\n","hide":"","time":"2018-02-16T13:36:58.000Z"}
