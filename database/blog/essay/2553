@@ -1,0 +1,1 @@
+{"id":2553,"content":"给getInstalledPackages()传入 PackageManager.GET_SERVICES\n就能在返回的packageInfo中的services拿到serviceInfo数组\n判断serviceInfo数组中是否包含`com.google.firebase.messaging.FirebaseMessagingService`服务就能知道应用有没有接入fcm了\n","hide":"","time":"2020-09-04T06:48:45.000Z"}
