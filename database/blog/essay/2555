@@ -1,0 +1,1 @@
+{"id":2555,"content":"发现google相册，蜻蜓FM这些也接入了FCM但是没有`com.google.firebase.messaging.FirebaseMessagingService`服务\n改成检查是否存在`com.google.firebase.iid.FirebaseInstanceIdReceiver`广播接收器了，这次应该没有漏了","hide":"","time":"2020-09-04T14:30:37.000Z"}
