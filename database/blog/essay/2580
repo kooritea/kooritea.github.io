@@ -1,0 +1,1 @@
+{"id":2580,"content":"通过看gms的代码，可以看到fcm的ReconnectManager是通过注册定时器，到时间就让定时器发送`com.google.android.intent.action.GCM_RECONNECT`广播实现重连的。\n但是使用`dumpsys | grep BroadcastRecord`查看系统中的广播发现这个重连广播好像是并没有发出来的亚子？\n手动发这个广播确实是能够让fcm重连","hide":"","time":"2020-09-10T12:34:31.000Z"}
