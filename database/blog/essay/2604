@@ -1,0 +1,1 @@
+{"id":2604,"content":"当promise的resolve返回的还是一个Promise的时候，第一层promise的then会继续等待内层的promise执行完毕再返回，总而言之，await和then拿到的值绝对不是Promise类型\n\n```typescript\nconst p = new Promise((resa)=>{\n    resa(new Promise((resb)=>{\n        resb(2233)\n    }))\n})\np.then((result)=>{\n    // result === 2233\n})\n\n```\n\n在写防抖装饰器的时候发现了这个问题","hide":"","time":"2020-09-18T18:26:27.000Z"}
