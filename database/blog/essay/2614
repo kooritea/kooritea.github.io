@@ -1,0 +1,1 @@
+{"id":2614,"content":"因为要装修没办法走网线\n中间的padavan做了无线桥接\n\n虽然不是很快但总比没有强\n\n现在是主路和旁路有线桥接\n主路和padavan无线桥接\npadavan和3号AP有线桥接\nnas接3号AP\n\n连接3号AP的5G无线设备到主路由的延迟\n`min/avg/max/mdev = 2.052/20.462/1178.630/56.301 ms`\n\n有时候会有ping DUP!\n貌似是因为padavan和3号AP都用同一个ssid，无线设备有时候走padavan，有时候走3号AP","hide":"","time":"2020-09-21T12:25:37.000Z"}
