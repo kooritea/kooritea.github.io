@@ -1,0 +1,1 @@
+{"id":2619,"content":"openwrt的防火墙自定义规则上，有一条注释\n\n```bash\n# This file is interpreted as shell script.\n```\n但是当我写一个数组和一个for循环进去就执行错误，for循环一下的规则没有生效，不知道这个是怎么执行的。\n\n只能改成调用外部shell脚本\n```bash\n/bin/bash /path/user-iptables\n```\n\n使用/bin/bash调用就可以随便用for或者数组了","hide":"","time":"2020-09-24T19:27:08.000Z"}
