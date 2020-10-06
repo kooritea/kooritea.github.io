@@ -1,0 +1,1 @@
+{"id":2669,"content":"握草？？\n通过进一步筛选发现b站直播ban的关键词不是chromium而是Ubuntu(不分大小写),ua什么都不写单写一个ubuntu就被ban了\n\nlinux的chrome的UA因为没有Ubuntu才没事，chromium的UA就带了ubuntu就被ban了\n另外试了几个linux发行版: Debian arch mint centos kali\n全都可以。\n针对我ubuntu???","hide":"","time":"2020-10-06T15:23:40.000Z"}
