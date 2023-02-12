@@ -1,1 +1,0 @@
-import{_ as e,o as _,c as o}from"./index-bb41091a.js";const c={},s={class:"home"};function t(a,n){return _(),o("div",s,"施工中")}const r=e(c,[["render",t],["__scopeId","data-v-5ed06d39"]]);export{r as default};
